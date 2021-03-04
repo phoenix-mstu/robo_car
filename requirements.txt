@@ -1,0 +1,11 @@
+wheel
+notebook
+git+https://github.com/orionrobots/Raspi_MotorHAT
+smbus
+picamera
+pillow
+numpy
+opencv-python
+matplotlib
+imutils
+simple_pid
